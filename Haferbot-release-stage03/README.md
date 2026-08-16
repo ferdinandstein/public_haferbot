@@ -27,4 +27,7 @@ Und für mehrere Runden:
 
     ruby runner.rb --write-profile-json ../haferbot/result.json --seed 1hlb3ch --max-tps 1000 --profile ../haferbot/
 
+Für parameter im Lauf:
+    ruby runner.rb --help ../haferbot/
+
 vor dem erstem git pull: PS C:\Users\chris\Code\Haferbot>

@@ -31,4 +31,9 @@ __pycache__/
 *.egg
 *.egg-info/
 result.json
-
+super_runner.py
+my_super_runner.py
+pcg32.py
+super_runner_work/
+result-events.json.gz
+test.html
