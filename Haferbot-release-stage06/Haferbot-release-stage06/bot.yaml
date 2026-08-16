@@ -1,0 +1,7 @@
+# Hier wird Emoji und Name festgelegt
+name: "Haferbot"
+emoji: 🍪
+# 🌾 🍪
+# \x1b oder \u001b
+# <a href=//a.de>Haferbot</a>
+# Best "<!--\x1b[4D\x1b[1;38;5;73m-->𝙃𝙖𝙛𝙚𝙧𝙗𝙤𝙩"
